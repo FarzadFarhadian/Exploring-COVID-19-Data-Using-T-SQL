@@ -8,4 +8,4 @@ The main goal of this project is to provide insights into the impact of COVID-19
 
 ---
 
-Feel free to customize the text to better reflect your project and its goals. I hope this helps!
+
